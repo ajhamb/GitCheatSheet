@@ -1,6 +1,6 @@
 # GitCheatSheet
 
-Adding project from folder
+##Adding project from folder
 
 git init
 git add .
